@@ -1,1 +1,1 @@
-### This configuration is a balance between performance, quality and least artifacts
+## This configuration is a balance between performance, quality and least artifacts
